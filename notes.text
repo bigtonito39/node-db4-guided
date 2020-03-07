@@ -1,0 +1,6 @@
+Data Normalization:
+
+-No field values are repeated
+-There are no redundant records
+-Each record has a unique primary key
+-All fields in a table should relate to the primary key
